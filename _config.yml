@@ -1,11 +1,8 @@
 # Dependencies
-# markdown:         redcarpet
-# highlighter:      pygments
 markdown: kramdown
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
 
 # Setup
 title:            OMKAR PATHAK
@@ -43,6 +40,3 @@ linkedin_username: omkar-pathak-94473811b
 facebook_username: omkarpathak27
 quora_username: Omkar-Pathak-18 
 instagram_username: omkarpathak27
-
-# sass:
-#     style: compressed
